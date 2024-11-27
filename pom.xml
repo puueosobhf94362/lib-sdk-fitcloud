@@ -72,7 +72,7 @@
     <dependency>
       <groupId>com.github.puueosobhf94362</groupId>
       <artifactId>lib-sdk-base</artifactId>
-      <version>sdk-base-3.0.1-beta12-hid</version>
+      <version>3.0.1-beta12-hid</version>
     </dependency>
     <dependency>
       <groupId>com.github.puueosobhf94362</groupId>
