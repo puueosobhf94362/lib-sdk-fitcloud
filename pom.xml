@@ -70,18 +70,23 @@
       <version>1.0.0</version>
     </dependency>
     <dependency>
-      <groupId>com.topstep.wearkit</groupId>
-      <artifactId>ext-realtek-dfu</artifactId>
+      <groupId>com.github.puueosobhf94362</groupId>
+      <artifactId>lib-sdk-base</artifactId>
+      <version>sdk-base-3.0.1-beta12-hid</version>
+    </dependency>
+    <dependency>
+      <groupId>com.github.puueosobhf94362</groupId>
+      <artifactId>lib-dfu</artifactId>
       <version>1.0.2</version>
     </dependency>
     <dependency>
-      <groupId>com.topstep.wearkit</groupId>
-      <artifactId>ext-realtek-bbpro</artifactId>
+      <groupId>com.github.puueosobhf94362</groupId>
+      <artifactId>lib-bbpro</artifactId>
       <version>1.0.2</version>
     </dependency>
     <dependency>
-      <groupId>com.topstep.wearkit</groupId>
-      <artifactId>ext-realtek-file</artifactId>
+      <groupId>com.github.puueosobhf94362</groupId>
+      <artifactId>lib-file</artifactId>
       <version>1.0.2</version>
     </dependency>
     <dependency>
