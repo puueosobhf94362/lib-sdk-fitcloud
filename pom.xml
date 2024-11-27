@@ -94,10 +94,5 @@
       <artifactId>kotlin-stdlib-jdk8</artifactId>
       <version>1.8.22</version>
     </dependency>
-    <dependency>
-      <groupId>com.topstep.wearkit</groupId>
-      <artifactId>sdk-base</artifactId>
-      <version>3.0.1-beta12-hid</version>
-    </dependency>
   </dependencies>
 </project>
